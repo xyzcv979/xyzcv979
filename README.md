@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in programming, piano, and fantasy fiction books!
-- 🌱 I’m currently going to school for my BA in Computer Science!
+- 🌱 I’m currently going to school for a degree in Computer Science! Very fun!
 
 
 <!---
