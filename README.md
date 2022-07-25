@@ -1,12 +1,12 @@
 Hi 👋 My name is Alexander Ng
 =============================
 
-I'm a former Army Ranger and now an aspiring software engineer. I'm interested in backend engineering
+I'm a former Army Ranger, studying computer science at Columbia University '23 and an aspiring backend software engineer.
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [alng979@gmail.com](mailto:alng979@gmail.com)
-*   🧠  I'm learning C++ and Spring Boot
-*   
+*   🧠  Current projects include making a chess game with AI
+*   💻  Interested in game dev, algorithmic trading, distributed systems, concurrency, parallelism, databases, and optimization
 ### Skills
 
 <p align="left">
