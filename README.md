@@ -1,4 +1,4 @@
-Hi 👋 My name is Alexander Ng
+Hi 👋 my name is Alex
 =============================
 
 I graduated with a Bachelors in Computer Science and am now working as a full time software engineer! Yay!
