@@ -1,12 +1,12 @@
 Hi 👋 My name is Alexander Ng
 =============================
 
-I'm a former Army Ranger, studying computer science at Columbia University '23 and an aspiring software engineer.
+I graduated with a Bachelors in Computer Science and am now working as a full time software engineer! Yay!
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [alng979@gmail.com](mailto:alng979@gmail.com)
-*   🧠  Current projects include making a chess game
-*   💻  Interested in game dev, algorithmic trading, distributed systems, databases, concurrency, parallelism, and optimization
+*   🧠  Current projects (TBD)
+*   💻  Interested in game dev, algorithmic trading, distributed systems, databases
 ### Skills
 
 <p align="left">
